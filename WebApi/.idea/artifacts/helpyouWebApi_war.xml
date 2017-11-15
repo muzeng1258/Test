@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="helpyouWebApi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="helpyouWebApi_war.war">
+      <element id="artifact" artifact-name="helpyouWebApi:war exploded" />
+    </root>
+  </artifact>
+</component>
